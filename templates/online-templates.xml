@@ -322,27 +322,27 @@
     </Label-rectangle>
   </Template>
 
-  <Template brand="Online Labels" part="OL775" size="US-Letter" _description="Floppy disk labels">
+  <Template brand="Online Labels" part="OL775" size="US-Letter" _description="3.5&quot; Floppy Disk, front only">
     <Meta category="label"/>
     <Meta category="rectangle-label"/>
     <Meta category="media"/>
     <Meta product_url="http://www.onlinelabels.com/OL775.htm"/>
-    <Label-rectangle id="0" width="2.675in" height="2in" round="0.125in" x_waste="0.03in" y_waste="0.05in">
+    <Label-rectangle id="0" width="2.675in" height="2in" round="0.125in" x_waste="0.035in" y_waste="0.06in">
       <Layout nx="3" ny="5" x0="0.1625in" y0="0.25in" dx="2.75in" dy="2.125in"/>
     </Label-rectangle>
   </Template>
 
-  <Template brand="Online Labels" part="OL1649" size="US-Letter" _description="Floppy disk labels">
+  <Template brand="Online Labels" part="OL1649" size="US-Letter" _description="5.25&quot; Floppy Disk">
     <Meta category="label"/>
     <Meta category="rectangle-label"/>
     <Meta category="media"/>
     <Meta product_url="https://www.onlinelabels.com/products/ol1649"/>
-    <Label-rectangle id="0" width="1.000in" height="5.000in" round="0.000in" x_waste="0.00in" y_waste="0.00in">
-      <Layout nx="7" ny="2" x0="0.375in" y0="0.475in" dx="1.125in" dy="5.125in"/>
+    <Label-rectangle id="0" width="1.000in" height="5.000in" round="0.000in" x_waste="0.06in" y_waste="0.06in">
+      <Layout nx="7" ny="2" x0="0.375in" y0="0.4375in" dx="1.125in" dy="5.125in"/>
     </Label-rectangle>
   </Template>
   
-  <Template brand="Online Labels" part="OL225 (main)" size="US-Letter" _description="Floppy disk labels">
+  <Template brand="Online Labels" part="OL225 (main)" size="US-Letter" _description="3.5&quot; Floppy Disk, wrap around">
     <Meta category="label"/>
     <Meta category="square-label"/>
     <Meta category="media"/>
@@ -351,7 +351,7 @@
       <Layout nx="3" ny="3" x0="0.125in" y0="0.5in" dx="2.75in" dy="3in"/>
     </Label-rectangle>
   </Template>
-  <Template brand="Online Labels" part="OL225 (secondary)" size="US-Letter" _description="Floppy disk labels">
+  <Template brand="Online Labels" part="OL225 (secondary)" size="US-Letter" _description="3.5&quot; Floppy Disk, write-protect">
     <Meta category="label"/>
     <Meta category="rectangle-label"/>
     <Meta category="media"/>
